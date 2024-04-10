@@ -1,0 +1,7 @@
+Sedan 1 red 5 1 
+Sedan 2 silver 2 0 
+SUV 3 black 2 1 
+SUV 4 blue 4 0 
+Sedan 5 pink 5 1 
+SUV 6 Baby_Boy_blue 4 0 
+Sedan 7 Barbie_pink 5 1 
